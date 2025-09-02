@@ -100,7 +100,7 @@ You can use datasets like:
 
 **Abdifatah Adam**  
 [GitHub](https://github.com/ENG-duurgal)  
-Final Year Computer Science Student at SIMAD University
+
 
 ---
 
